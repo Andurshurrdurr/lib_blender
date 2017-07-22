@@ -16,3 +16,18 @@ Things Ive learned:
 - Its smart to create the body and legs first in front view -> switch to side and adjust the model -> back to front to create the arms and legs -> At this point we start smoothing out the model by whatever looks good. This last step may take a while
 
 8. Finally we may add a subdivision modifier to smooth out the model. Now we may move onto mapping the model, creating materials, rigging, animating and so on.
+
+## Hotkeys
+Blender is all about hotkeys
+**General:**
+- A : Select all / Deselect
+- B : Box select
+- C : Circle select
+- Ctrl-Up : Fullscreen on the selected pane
+
+**Edit mode:**
+- Shift-Alt-select : Selects vertecies in a loop around the object
+- Shift-select : Selects shortest route from last selected vertex to the one selected
+- K : Knife tool
+- Numpad , : Focus on selected
+- Numpad / : Focus on global
