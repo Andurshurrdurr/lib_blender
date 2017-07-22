@@ -10,3 +10,10 @@ After UV mapping the model we are ready to make textures and add them to the mat
 
 ## Advanced use
 *Using an image for advanced texturing*
+
+
+## Hotkeys
+- F and shift-F : Adjust brush
+
+## Tips
+- When painting on the model enable the face selection mode, select faces you wish to paint and the brush will be limited to those faces. By 

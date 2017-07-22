@@ -27,3 +27,10 @@ Things Ive learned:
 
 4. After doing this we select all with "A", hit "U" and unwrap the model.
 5. Now the model is unwrapped and we may start applying our material using the UV wrap
+
+## Hotkeys
+
+
+After unwrapping in UV Editor
+- CTRL-A : Avg size
+- CTRL-P : Pack
